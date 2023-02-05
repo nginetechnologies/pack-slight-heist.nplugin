@@ -10,6 +10,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
+    "008cfd24-7448-b6fc-c96e-c2ab00cef3d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Railing_Small_Thumb.tex.nasset"
+    },
     "0137ccb0-5df2-79ce-cf30-bd692768328c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -107,6 +111,10 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Guns/SM_Sniper_2.scene.nasset/SM_Sniper_2.scene.nasset"
     },
+    "051e72ac-c4b6-e837-6491-5c54b8588144": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Container_Small_Thumb.tex.nasset"
+    },
     "0562f50f-b146-935f-a360-d4f00c992839": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -166,6 +174,10 @@
         "dependencies": [
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
+    },
+    "0ae04344-d4b5-7c0e-5164-945d94dec688": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_Tires_Thumb.tex.nasset"
     },
     "0ae53e28-4b4a-08b6-83b5-1e150d392588": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -277,6 +289,10 @@
             "cf6ee35f-395a-6a5a-2419-1db5a584ba56"
         ]
     },
+    "0f385036-5849-73c2-74cb-a52bac993a55": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Streetlight_Thumb.tex.nasset"
+    },
     "0f3e5d46-fe2f-c618-2ad7-80c68846d3bc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -335,6 +351,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "1265000b-8700-f265-ae83-ad7ada562eae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Structure_4_Thumb.tex.nasset"
+    },
+    "12da86d4-7723-fc81-de5e-77d694dcb4a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Key_Thumb.tex.nasset"
+    },
     "1328ca71-9a62-ba9d-8dd2-bd4aa428dbab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -358,6 +382,14 @@
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
         ]
     },
+    "13fb9f7a-c872-4333-3555-f8f492bdc7c6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_Papers_2_Thumb.tex.nasset"
+    },
+    "14d75757-b3e4-7394-98aa-533bf49b4d7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Sign_Thumb.tex.nasset"
+    },
     "169517f2-a944-0a5b-42c3-5ae481241140": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -368,6 +400,14 @@
         "dependencies": [
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
+    },
+    "17403c2f-6ee2-82b3-9f1b-8e2d03068b8d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Tree_3_Thumb.tex.nasset"
+    },
+    "17b1f409-db83-f72a-79e1-91999ddbe504": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/WaterTank_Platform_Thumb.tex.nasset"
     },
     "184038cb-6cb3-2908-b202-2cc483bf8d71": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -417,6 +457,10 @@
         "dependencies": [
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
         ]
+    },
+    "1a954b47-cae6-6979-a8ab-03e65616160b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Barrier_Fixed_Thumb.tex.nasset"
     },
     "1add22aa-97b1-dd3c-17a3-299d18fe9743": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -479,6 +523,10 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
+    },
+    "1f170865-5f05-0d98-2123-65db5eef314a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_Pile_Thumb.tex.nasset"
     },
     "1f919618-703a-50bb-8346-6479fd13166d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -550,6 +598,10 @@
         "dependencies": [
             "ea335b9f-9466-6bf1-83a3-9b20a62a10a2"
         ]
+    },
+    "24199f5c-84bc-4499-e583-16cf3473cf38": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/ExplodingBarrel_Spilled_Thumb.tex.nasset"
     },
     "2526a360-cc58-931c-0d6d-41f08c02581b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -728,6 +780,10 @@
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
         ]
     },
+    "2f896288-28fe-3fc7-0d78-c8171b064326": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_Papers_3_Thumb.tex.nasset"
+    },
     "307640d1-3ae0-d586-e41a-55b3781df699": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -887,6 +943,10 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
+    "393a4fad-73dc-d7ef-7316-5acb0cbf565a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Container_Long_Thumb.tex.nasset"
+    },
     "3997ad02-30d1-5d3a-8418-f02ef973e07c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -919,6 +979,10 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
+    },
+    "3c11c8d3-20b2-4d9b-6bf0-d7e874a731d9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Traffic_Cone_Thumb.tex.nasset"
     },
     "3c938d60-2127-1eed-bd97-f977ddd6cc80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1377,6 +1441,10 @@
             "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
         ]
     },
+    "525dbf1d-f561-95bb-cc43-af45ea673e21": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Pipes_Thumb.tex.nasset"
+    },
     "52d9b38f-c384-093b-ae98-7c0c3a3d76d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1477,6 +1545,10 @@
             "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
         ]
     },
+    "567905bb-9593-f832-426d-2a30f6298352": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Structure_3_Thumb.tex.nasset"
+    },
     "57efa232-c3f0-fcd9-4c9d-9703a203fce7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1513,6 +1585,10 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
+    },
+    "5a291b8d-c11b-768f-73df-9d1224c73908": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Tank_Thumb.tex.nasset"
     },
     "5aac685d-5e65-3fdc-093e-95cb151392a3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1679,6 +1755,10 @@
             "850945be-a77d-b669-f6ea-e62f47dd29c1"
         ]
     },
+    "62b24672-7a57-4076-1d5f-b70c00bcd98c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Tree_2_Thumb.tex.nasset"
+    },
     "634a9472-5030-ee75-ba70-cce75614cf14": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1729,6 +1809,10 @@
         "dependencies": [
             "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
+    },
+    "68d2a75a-9a94-9bdc-b262-45480818b290": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_1_Thumb.tex.nasset"
     },
     "6954d35a-087c-dcb4-b541-0ef85504d620": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2010,6 +2094,10 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
+    "79cc9586-e503-e590-66cd-95390a76c2f7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Container_Long_Open_Thumb.tex.nasset"
+    },
     "7b4a879c-902f-3564-89ab-2671dfab687c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2049,6 +2137,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "7d687bfa-0d94-eee0-a435-c65dc600c6a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_3_Thumb.tex.nasset"
+    },
     "7db6a749-93dd-5747-4b70-c8789f08ac11": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2060,6 +2152,10 @@
             "0bd9a970-adc8-5484-d372-2637fe5219c8"
         ]
     },
+    "7de89408-1105-abbd-4f62-4bb0a7340d95": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Barrier_Large_Thumb.tex.nasset"
+    },
     "7f40112a-51df-32ab-8fc0-1e71e03076ee": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2070,6 +2166,10 @@
         "dependencies": [
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
+    },
+    "80678158-eb4a-fc95-4dc3-8ac26b987d2d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Tree_1_Thumb.tex.nasset"
     },
     "80f77812-b6cd-68fb-0bc5-c278340ba7eb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2092,6 +2192,10 @@
             "325caf62-54f5-b567-688b-5158b48fda87",
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
+    },
+    "81168173-794d-d499-981a-8210782c1ef5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Concrete_Flat_Thumb.tex.nasset"
     },
     "8131e47f-4b16-72ec-46af-1430f97e47cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2483,6 +2587,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
+    "9a7a1165-de9a-6aed-3a05-0445c1f57cd2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Tree_4_Thumb.tex.nasset"
+    },
     "9a970478-b021-6244-e378-598d1a0229f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2547,6 +2655,10 @@
             "baaeaa52-d683-2436-15eb-bb2bf9ceb581",
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
+    },
+    "9dd5b4a4-9c09-da7b-8ae9-ed170358f25b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Fence_Thumb.tex.nasset"
     },
     "9dee2043-6b9f-90fe-510b-15d4030112fb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2628,6 +2740,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "a243ff92-c11b-b5fe-8979-4f3ac330aca2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/BearTrap_Open_Thumb.tex.nasset"
     },
     "a27b6b89-1550-6b46-01db-e233580d7a76": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2716,6 +2832,10 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
+    "a6194525-8ee8-6075-280e-3cd20c00deb6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Structure_2_Thumb.tex.nasset"
+    },
     "a63d3e2e-1e65-0625-2aaf-644327213a94": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2743,6 +2863,10 @@
             "d9b91be8-041b-3911-c0a4-b09d1062ee8b",
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
+    },
+    "a768fe6b-626d-e51c-3d7d-a74434177dee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/GasCan_Thumb.tex.nasset"
     },
     "a7e9efaa-e952-bfe8-4845-f163eca408aa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2801,6 +2925,10 @@
             "fd155555-96ea-4d0d-0049-1c934b388837"
         ]
     },
+    "aa8a3e99-8c36-4c79-1302-a0e84dda4ec5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Fence_Long_Thumb.tex.nasset"
+    },
     "aade4f6a-6255-9a95-06c0-64358ecf63d5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2818,6 +2946,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "ab85590e-8b71-49c9-5677-81ac01a1a36d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Pallete_Broken_Thumb.tex.nasset"
     },
     "abd8bae0-c8a0-013b-ec2f-403cdeb29231": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2874,6 +3006,10 @@
         "dependencies": [
             "9b665a37-b228-3d79-d708-369145f25466"
         ]
+    },
+    "adb5a10b-7b6c-2324-49af-aae76db16ce3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_BrokenCar_Thumb.tex.nasset"
     },
     "ade69ffc-e221-a0d8-062d-5522dccfdad6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3012,6 +3148,10 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
+    "b2cdeda6-9272-03b1-82ee-9f42a2148f66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/SackTrench_Thumb.tex.nasset"
+    },
     "b331aca0-06c4-b8ab-169d-d30b26cb8b95": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3046,6 +3186,10 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
+    "b5f8cf97-9d04-747c-985d-0427e6bf01f7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_4_Thumb.tex.nasset"
+    },
     "b620cad3-7abb-2217-f5cb-0bb88e571d8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3057,6 +3201,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
+    "b62a7c0d-3234-34e6-a047-6de779ac027a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Pallete_Thumb.tex.nasset"
+    },
     "b6a8d142-afb9-d909-9471-883e7190ea7e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3067,6 +3215,10 @@
         "dependencies": [
             "9b665a37-b228-3d79-d708-369145f25466"
         ]
+    },
+    "b70380df-90fe-3527-9411-5d58af4fe9fc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Health_Thumb.tex.nasset"
     },
     "b7201341-f4b0-521c-236c-898e04210fa7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3210,6 +3362,10 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
+    "be0afe87-179a-4df8-ec78-b7540ca04c8b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Debris_Papers_1_Thumb.tex.nasset"
+    },
     "be11d861-62a9-3ba7-0b5b-9f8c09be2420": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3233,13 +3389,25 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c018b54d-9df8-82bb-14ac-814c1554157d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/WaterTank_Floor_Thumb.tex.nasset"
+    },
     "c05eab90-ce5c-babc-7bb6-773986697afc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Guns/Thumbnails/Sniper_01_Thumb.tex.nasset"
     },
+    "c1868917-768a-4e11-874b-d1f422594df9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/WoodPlanks_Thumb.tex.nasset"
+    },
     "c18d0b6f-42a3-fb47-c6b3-16aa9eb429f4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/Textures/T_Fence_D.tex.nasset"
+    },
+    "c1b2fb31-72ea-bc90-db27-1495f2d98258": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Crate_Thumb.tex.nasset"
     },
     "c22aab5e-6974-a90d-3b2a-bb1d93ffc2e5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3256,6 +3424,14 @@
             "c18d0b6f-42a3-fb47-c6b3-16aa9eb429f4"
         ]
     },
+    "c32f1197-b7d6-ae11-06f1-90f5a79c72a5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/SackTrench_Small_Thumb.tex.nasset"
+    },
+    "c35359b2-d3a4-eca1-074f-7146c929ebce": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Wall_Panel_Thumb.tex.nasset"
+    },
     "c42cdc90-0d50-1824-9384-8805728b0147": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3266,6 +3442,10 @@
         "dependencies": [
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
         ]
+    },
+    "c46181e0-b190-1b44-960b-dd359034a2cc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/GasTank_Thumb.tex.nasset"
     },
     "c4a99929-c044-5f65-d66b-f471ede84467": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3411,6 +3591,10 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
+    },
+    "ca380ea0-b089-254d-0512-b6898fc93ca7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Trash_Container_Thumb.tex.nasset"
     },
     "cb30bb42-a163-0dac-3986-ccbc22668f84": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3671,6 +3855,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "d629e197-466a-0ce5-30c1-1074cc90fa89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/MetalFence_Thumb.tex.nasset"
+    },
     "d6495e72-193e-a169-84cc-65d2c614e8e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Guns/Material Instances/Grey Light.mtli.nasset",
@@ -3681,6 +3869,14 @@
     "d6e4664d-e0e6-4183-8b01-95e53872bf0e": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin"
+    },
+    "d6e7cb94-1de0-a8bc-a6ae-d94ea7549daa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Stage_Platform_Thumb.tex.nasset"
+    },
+    "d7ae5d73-1331-98d6-fc35-c2cdca83c59a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Landmine_Thumb.tex.nasset"
     },
     "d9a96780-c4e1-f910-05d6-1ae79d7e91b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3922,6 +4118,10 @@
             "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
+    "e39ee889-d087-e805-a431-501148039d7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Trash_Container_Open_Thumb.tex.nasset"
+    },
     "e427cfa8-3500-163b-7ff1-c745ceaf3209": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3935,6 +4135,10 @@
             "b0bf1f21-bf2f-d814-3b64-f1162ebe41a4",
             "123e1311-5459-9629-57f5-aba261d7d0e9"
         ]
+    },
+    "e466fe18-4d59-302d-dafe-e44c8faaf24c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Structure_1_Thumb.tex.nasset"
     },
     "e5476af3-dd63-ea7a-b1bf-eb5d89833c3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4023,6 +4227,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
+    "e9dcc1a2-9606-7436-b61f-f6d0881dc25a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Barrier_Trash_Thumb.tex.nasset"
+    },
     "e9fe10ce-66f7-988c-ac63-a7add8ef7143": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Guns/Thumbnails/Knife_01_Thumb.tex.nasset"
@@ -4033,6 +4241,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "ea6d7ee8-1a81-0698-11e3-974f709cf3ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/Barrier_Single_Thumb.tex.nasset"
     },
     "eaa8b69c-671d-fbd3-c16a-ab47fdc9ef9a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4201,6 +4413,10 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
+    "f15115a2-f067-bf3f-77da-fb5d4e86dd8f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/BearTrap_Closed_Thumb.tex.nasset"
+    },
     "f191ae1a-90b0-1e9d-f9a5-c585cb8dac2c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4267,6 +4483,10 @@
             "7691daa4-46ea-4338-5cc3-88898f56f4c0",
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
+    },
+    "f4901e31-4877-eaa9-53c8-9d1014b7afc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/ExplodingBarrel_Thumb.tex.nasset"
     },
     "f4c300b8-f53d-7851-8c28-ab9ec3f1a593": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4358,6 +4578,10 @@
         "dependencies": [
             "2526a360-cc58-931c-0d6d-41f08c02581b"
         ]
+    },
+    "f9746230-ebc8-a7f4-9331-9309bd6a534b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_2_Thumb.tex.nasset"
     },
     "fae2de29-cb21-6fc4-d394-3002abb80219": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
