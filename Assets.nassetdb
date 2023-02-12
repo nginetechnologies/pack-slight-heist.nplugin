@@ -1898,6 +1898,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
     "6fa201b5-1751-1537-ab03-cf2fdd4a6770": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",

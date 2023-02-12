@@ -4,9 +4,6 @@
     "guid": "d6e4664d-e0e6-4183-8b01-95e53872bf0e",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "asset_directory": "Assets",
-    "source_directory": "Code",
-    "binary_directory": "bin",
-    "library_directory": "lib",
     "thumbnail_guid": "8502bec5-1e75-5c07-6c15-71b130bd7624",
     "plugin_dependencies": [
 		"4cc21fd4-730f-475d-9807-fbf9e5595308",
