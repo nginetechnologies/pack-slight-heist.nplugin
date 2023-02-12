@@ -10,24 +10,9 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "008cfd24-7448-b6fc-c96e-c2ab00cef3d6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Railing_Small_Thumb.tex.nasset"
-    },
     "00da35ab-1d96-0459-3324-d17111589de4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Debris Tires.mesh.nasset/Thumbnails/Debris Tires.mesh.nasset.tex.nasset"
-    },
-    "0137ccb0-5df2-79ce-cf30-bd692768328c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
     },
     "01c5d9fc-9444-5f34-7c40-ecb935126745": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -40,33 +25,12 @@
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
         ]
     },
-    "02582fe1-7bd5-ca89-67f0-31fd19bf25ea": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
     "02cdd4f5-6bbf-8189-2782-83ae98c622ea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Light Emission.mtli.nasset",
+        "thumbnail": "efd56dfb-60d6-fb4c-90b8-d7d8590f1cf4",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "03032a25-aced-4a0b-9476-6ea60186b264": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "0350b020-a9a1-35dd-b97a-2e742753fd6b": {
@@ -83,6 +47,10 @@
             "ade69ffc-e221-a0d8-062d-5522dccfdad6",
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
+    },
+    "04037dc5-302e-8434-8186-82171702763b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Green Tree.mtli.nasset.tex.nasset"
     },
     "04042fcb-cb86-218b-a4db-316e97915dfd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -115,15 +83,6 @@
             "29533ba8-6d01-29fe-d96b-a402f392ef13",
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
         ]
-    },
-    "05197ca6-3bee-280f-82c7-867aaa465f06": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Sniper_2.scene.nasset/SM_Sniper_2.scene.nasset"
-    },
-    "051e72ac-c4b6-e837-6491-5c54b8588144": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Container_Small_Thumb.tex.nasset"
     },
     "054420d9-6122-20c6-4f9d-dddc7106886b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -168,6 +127,10 @@
             "2526a360-cc58-931c-0d6d-41f08c02581b"
         ]
     },
+    "06c8cf02-ba7c-bc5e-56cc-165028d4661d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Orange.mtli.nasset.tex.nasset"
+    },
     "06d027db-82ea-4f83-e9ce-fa146c1222e5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -189,10 +152,6 @@
         "dependencies": [
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
-    },
-    "0ae04344-d4b5-7c0e-5164-945d94dec688": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_Tires_Thumb.tex.nasset"
     },
     "0ae53e28-4b4a-08b6-83b5-1e150d392588": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -259,6 +218,7 @@
     "0bd9a970-adc8-5484-d372-2637fe5219c8": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Cardboard.mtli.nasset",
+        "thumbnail": "310144f5-aefd-7776-6b56-78cd108d4373",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -278,11 +238,6 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "0c4cb4a8-0ec9-082d-2677-2d2f3100c96c": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/SM_Revolver.scene.nasset"
-    },
     "0c7eb594-e30b-b736-947f-45cccc1745a1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -294,29 +249,13 @@
             "34fd3ae0-06cd-8e0a-3ebd-089154471f2e"
         ]
     },
-    "0ce5f205-2337-1d24-5cf7-d3d75f6f42f6": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "fee850ec-b299-2cef-2bb4-2d6032351859",
-            "2b776c51-0aa3-c403-04fc-c76642e087d8",
-            "b6a8d142-afb9-d909-9471-883e7190ea7e",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "da044b1d-9402-ce8f-b491-92be714fae01",
-            "cf6ee35f-395a-6a5a-2419-1db5a584ba56"
-        ]
+    "0d53891d-c8c1-c681-f1bf-3abebe97dd54": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Concrete Dark.mtli.nasset.tex.nasset"
     },
     "0e0337da-2363-d597-9214-749499596b51": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench.mesh.nasset/Thumbnails/SackTrench.mesh.nasset.tex.nasset"
-    },
-    "0f385036-5849-73c2-74cb-a52bac993a55": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Streetlight_Thumb.tex.nasset"
     },
     "0f3e5d46-fe2f-c618-2ad7-80c68846d3bc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -327,17 +266,6 @@
         ],
         "dependencies": [
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
-        ]
-    },
-    "0f4d5a77-ef68-d615-5d98-8862408e0232": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "0f9de5b5-d1f9-f712-6340-9919563d18ac": {
@@ -366,27 +294,13 @@
             "eef8ae58-7242-e233-9b5f-46b2ed47b33d"
         ]
     },
-    "11ddcb0a-e4be-eb11-4697-cec64f3edbd9": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Wood.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "123e1311-5459-9629-57f5-aba261d7d0e9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Green Tree.mtli.nasset",
+        "thumbnail": "04037dc5-302e-8434-8186-82171702763b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "1265000b-8700-f265-ae83-ad7ada562eae": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Structure_4_Thumb.tex.nasset"
-    },
-    "12da86d4-7723-fc81-de5e-77d694dcb4a0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Key_Thumb.tex.nasset"
     },
     "1328ca71-9a62-ba9d-8dd2-bd4aa428dbab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -412,17 +326,9 @@
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
         ]
     },
-    "13fb9f7a-c872-4333-3555-f8f492bdc7c6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_Papers_2_Thumb.tex.nasset"
-    },
     "1492953a-40bf-17fc-901c-58b0a5076b08": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container.mesh.nasset/Thumbnails/Trash Container.mesh.nasset.tex.nasset"
-    },
-    "14d75757-b3e4-7394-98aa-533bf49b4d7a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Sign_Thumb.tex.nasset"
     },
     "169517f2-a944-0a5b-42c3-5ae481241140": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -434,14 +340,6 @@
         "dependencies": [
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
-    },
-    "17403c2f-6ee2-82b3-9f1b-8e2d03068b8d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Tree_3_Thumb.tex.nasset"
-    },
-    "17b1f409-db83-f72a-79e1-91999ddbe504": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/WaterTank_Platform_Thumb.tex.nasset"
     },
     "184038cb-6cb3-2908-b202-2cc483bf8d71": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -513,20 +411,9 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Container Long Open.mesh.nasset/Thumbnails/Container Long Open.mesh.nasset.tex.nasset"
     },
-    "1a954b47-cae6-6979-a8ab-03e65616160b": {
+    "1bd11288-c26d-82ad-2938-2bde97232164": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Barrier_Fixed_Thumb.tex.nasset"
-    },
-    "1add22aa-97b1-dd3c-17a3-299d18fe9743": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Wood Light.mtli.nasset.tex.nasset"
     },
     "1c9f6de7-5516-1ac8-7c22-19574349f367": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -543,17 +430,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Walkway.mesh.nasset/Thumbnails/Walkway.mesh.nasset.tex.nasset"
     },
-    "1cc70b33-40c1-9e58-9431-cecd5af9dd5b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
     "1d3c1554-4221-8046-5d8d-79ec808c5406": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -568,6 +444,7 @@
     "1e693d8c-8c29-a90d-c426-9dbdee53d37c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Grey. Blue.mtli.nasset",
+        "thumbnail": "f1d8efd0-582b-ce3b-39ff-9a4d6e438aca",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -582,36 +459,6 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
-    },
-    "1f170865-5f05-0d98-2123-65db5eef314a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_Pile_Thumb.tex.nasset"
-    },
-    "1f919618-703a-50bb-8346-6479fd13166d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
-    "20598904-2a8d-4864-ec42-f78510a6f5e8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "20cedf6e-32af-cbad-a48d-45c45d7c6c16": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Pistol_Thumb.tex.nasset"
     },
     "20f22b18-a85f-4477-0ca5-6fd44f792442": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -667,13 +514,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 2.mesh.nasset/Thumbnails/Structure 2.mesh.nasset.tex.nasset"
     },
-    "24199f5c-84bc-4499-e583-16cf3473cf38": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/ExplodingBarrel_Spilled_Thumb.tex.nasset"
-    },
     "2526a360-cc58-931c-0d6d-41f08c02581b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Yellow.mtli.nasset",
+        "thumbnail": "eb335f32-2c84-a210-fc56-2b8ee4495ebc",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -759,11 +603,6 @@
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
         ]
     },
-    "2a630180-9138-06e9-cb28-f533610d3a1e": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/SM_Knife_1.scene.nasset"
-    },
     "2aef4476-c3b6-d4bf-768a-10327df7b80e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -773,24 +612,6 @@
         ],
         "dependencies": [
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
-        ]
-    },
-    "2af4381f-20af-c2d6-0e14-15ed129f44f9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Red Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "5012e4e7-73dd-8594-7f0a-6307c75a6cae"
-        ]
-    },
-    "2b776c51-0aa3-c403-04fc-c76642e087d8": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Green.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "2bdcaf33-24f0-20fb-1d18-b9da48021616": {
@@ -815,17 +636,6 @@
         ],
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
-        ]
-    },
-    "2ce13898-61a3-a0d3-7153-a0ad05051de4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "2d815bfa-fc1e-7123-32ea-aa00728c4c55": {
@@ -854,9 +664,9 @@
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
         ]
     },
-    "2f896288-28fe-3fc7-0d78-c8171b064326": {
+    "30171b82-176e-0c4c-6e65-d7258509cd88": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_Papers_3_Thumb.tex.nasset"
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Concrete.mtli.nasset.tex.nasset"
     },
     "307640d1-3ae0-d586-e41a-55b3781df699": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -869,10 +679,9 @@
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
         ]
     },
-    "30c46540-3ee7-1ad3-91af-c5b666ea5f25": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Short_Cannon.scene.nasset/SM_Short_Cannon.scene.nasset"
+    "310144f5-aefd-7776-6b56-78cd108d4373": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Cardboard.mtli.nasset.tex.nasset"
     },
     "31929373-c485-49d5-d5db-17c8981ed357": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -896,6 +705,10 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
+    "3292ffdb-8da9-0a2a-f94e-d5cd7cd5dba9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
+    },
     "334e69fd-71a5-642f-d942-77fa017e26ea": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -905,22 +718,6 @@
         ],
         "dependencies": [
             "d5cea7c2-3db1-c2db-d177-17a5d5f9f853"
-        ]
-    },
-    "33db870b-9dd7-cf4a-1331-586017ef0b38": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "20598904-2a8d-4864-ec42-f78510a6f5e8",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "53d4695b-003d-8e36-7c68-7148648d6685",
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
-            "8364db08-1722-02ce-cf0b-4a7111ffdef7",
-            "d6495e72-193e-a169-84cc-65d2c614e8e1"
         ]
     },
     "33f94cd0-4072-dc28-7de5-82cae910891c": {
@@ -948,6 +745,7 @@
     "34d3f1ff-13c3-f0fd-4e3b-eb447fc278b1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Wood Light.mtli.nasset",
+        "thumbnail": "1bd11288-c26d-82ad-2938-2bde97232164",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -955,6 +753,7 @@
     "34fd3ae0-06cd-8e0a-3ebd-089154471f2e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Concrete.mtli.nasset",
+        "thumbnail": "30171b82-176e-0c4c-6e65-d7258509cd88",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -974,10 +773,9 @@
             "7ca62086-e5a6-599d-314b-267ecfa81aa0"
         ]
     },
-    "36201c2d-41da-3c33-88ec-b55da77dfb36": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/SM_Grenade_Launcher.scene.nasset"
+    "372809e5-fee5-477f-ff60-902aaca64452": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Brown.mtli.nasset.tex.nasset"
     },
     "376d96e0-5ef9-f56b-a59b-1c83fe77cb8d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -989,11 +787,6 @@
         "dependencies": [
             "02cdd4f5-6bbf-8189-2782-83ae98c622ea"
         ]
-    },
-    "38570872-0196-741e-6cdc-1f8022e553f3": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/SM_Fire_Grenade.scene.nasset"
     },
     "38a17579-e6e1-837c-4dda-bc4c8ee2aa82": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1014,10 +807,6 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
-    "393a4fad-73dc-d7ef-7316-5acb0cbf565a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Container_Long_Thumb.tex.nasset"
-    },
     "3997ad02-30d1-5d3a-8418-f02ef973e07c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1027,17 +816,6 @@
         ],
         "dependencies": [
             "0bd9a970-adc8-5484-d372-2637fe5219c8"
-        ]
-    },
-    "39cebbc3-fb94-e5ab-6bac-72f316b6d9a3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "92b36451-a837-9f4c-6a16-29cab19f7963"
         ]
     },
     "3b018953-f801-30cc-f299-be503e5c233f": {
@@ -1054,10 +832,6 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
-    },
-    "3c11c8d3-20b2-4d9b-6bf0-d7e874a731d9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Traffic_Cone_Thumb.tex.nasset"
     },
     "3c938d60-2127-1eed-bd97-f977ddd6cc80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1100,10 +874,6 @@
             "c6af3d91-6322-1773-d33b-8af43d13fb83",
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
-    },
-    "3db3bfb2-9331-56cf-d0ec-df1b51d8c291": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Revolver_Thumb.tex.nasset"
     },
     "3db41eba-6130-1ac4-0ce7-9e8adfd0acd3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1150,6 +920,10 @@
             "ef50bade-b5e3-6cb2-0515-c8f74426f7d8",
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
+    },
+    "3ffc1fbb-6a49-7eee-d117-92642537e1ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
     },
     "4029c01c-9e5f-af78-e865-9303862c485a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1238,24 +1012,6 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
-    "43c4403e-f076-cefe-ecbf-41024d13d146": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "a2f95acb-2c28-2050-f4b0-6a77256452de",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
-            "7166eeff-639f-4777-b1fa-0bdefa4b2e36",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "925c872f-b7cf-bf20-ce44-3c956ceea06a",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "be11d861-62a9-3ba7-0b5b-9f8c09be2420",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
     "43e0a49a-64bd-5e68-5c88-60b0f08ddcad": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1286,43 +1042,9 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Barrier Fixed.mesh.nasset/Thumbnails/Barrier Fixed.mesh.nasset.tex.nasset"
     },
-    "44654fc0-1670-cd11-ecbd-f2a077b454fb": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "b8b09db4-b77d-50a8-1954-aed33e73769f"
-        ]
-    },
-    "4517c7b1-a27a-7a87-24c8-d40c7945bbfc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/SM_Rocket_Launcher.scene.nasset"
-    },
     "454a1870-6bcf-3b13-3172-e0d15137b209": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Platform.mesh.nasset/Thumbnails/WaterTank Platform.mesh.nasset.tex.nasset"
-    },
-    "45710e60-f1af-5280-39ea-651b4a47c75e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "e76fdb05-9ef2-e2b3-d059-99feed48d943",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "f1ba40d4-de28-49cc-f7f7-9d0fa62c9f5d",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "60d7ec95-89f8-3b1b-7342-2018ef348372",
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
-            "66c67a3a-81cd-1d0d-efb2-109e5cc3dd4b",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
     },
     "45c1142d-5588-5562-b744-d8abeeb94411": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1357,26 +1079,9 @@
     "48203a3e-b958-39d3-ef59-e0b54700acef": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Tape.mtli.nasset",
+        "thumbnail": "8965d75e-5c40-c9a5-0b91-d312894ed8cf",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "48d33b82-9a77-88b7-0dd2-26bcb6c97579": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "02582fe1-7bd5-ca89-67f0-31fd19bf25ea",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "1cc70b33-40c1-9e58-9431-cecd5af9dd5b",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "739cc087-2d51-75df-17ce-573a7d9eb72d",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "9b2af435-883b-2c2e-1923-ba9cd2877b69",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "4996e0c8-4266-7443-0de6-d6fa7719a14d": {
@@ -1410,6 +1115,7 @@
     "4b82a362-e60b-b997-b228-9b6ca1fddede": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Grey Dark.mtli.nasset",
+        "thumbnail": "ebf2d001-6be2-e6a9-9c8e-d8721b7f2f6c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1450,17 +1156,6 @@
         ],
         "dependencies": [
             "850945be-a77d-b669-f6ea-e62f47dd29c1"
-        ]
-    },
-    "4c2106fb-e720-8327-dab8-75b4ccc16b2a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Wood Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
         ]
     },
     "4c86fab5-cc99-fc98-def2-ea85a9541194": {
@@ -1508,13 +1203,6 @@
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
     },
-    "5012e4e7-73dd-8594-7f0a-6307c75a6cae": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Red Dark.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "50e61b10-ef1e-51ea-e3fd-17fb07ffaabc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/Textures/T_storageAtlasBlue_D.tex.nasset"
@@ -1530,32 +1218,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "5123a090-bb96-99c8-92ec-540831bb7d0f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
-    "51e7a520-7f5e-c5e0-8f41-dc0bc05b994f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Wood Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
-        ]
-    },
-    "525dbf1d-f561-95bb-cc43-af45ea673e21": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Pipes_Thumb.tex.nasset"
-    },
     "52d9b38f-c384-093b-ae98-7c0c3a3d76d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1567,35 +1229,9 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
-    "532b6319-bd0b-a788-c5da-c5213ef86a1f": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "fd155555-96ea-4d0d-0049-1c934b388837"
-        ]
-    },
     "534324ff-943f-36d6-ef62-56abe1a112ef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Asphalt 4x4.mesh.nasset/Thumbnails/Asphalt 4x4.mesh.nasset.tex.nasset"
-    },
-    "53d4695b-003d-8e36-7c68-7148648d6685": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
-        ]
-    },
-    "53f4416d-4a90-e309-7f20-7380d92abf23": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Knife_02_Thumb.tex.nasset"
     },
     "544603c1-e731-898d-768f-a634dee250a4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1607,10 +1243,6 @@
         "dependencies": [
             "2526a360-cc58-931c-0d6d-41f08c02581b"
         ]
-    },
-    "546330ac-1401-1c7b-5835-4e16f0720a2f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Fire_Grenade_Thumb.tex.nasset"
     },
     "558de4da-f45f-fe73-849a-b285f0aea643": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1628,6 +1260,7 @@
     "55f62a37-c5a7-a102-c71e-61e7b63351ce": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Black.mtli.nasset",
+        "thumbnail": "3ffc1fbb-6a49-7eee-d117-92642537e1ec",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1642,28 +1275,6 @@
         "dependencies": [
             "55f62a37-c5a7-a102-c71e-61e7b63351ce"
         ]
-    },
-    "566d1cbd-1c44-07dd-55c5-6ac2a96b7644": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "4c2106fb-e720-8327-dab8-75b4ccc16b2a",
-            "ab1a116c-da33-3165-fef1-e06f9e0d3d00",
-            "1f919618-703a-50bb-8346-6479fd13166d",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "602bfd4b-56a6-b164-aa20-a81dab4e81ef",
-            "d6495e72-193e-a169-84cc-65d2c614e8e1",
-            "0137ccb0-5df2-79ce-cf30-bd692768328c",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
-    "567905bb-9593-f832-426d-2a30f6298352": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Structure_3_Thumb.tex.nasset"
     },
     "57efa232-c3f0-fcd9-4c9d-9703a203fce7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1691,10 +1302,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Exploding Barrel.mesh.nasset/Thumbnails/Exploding Barrel.mesh.nasset.tex.nasset"
     },
-    "5904ab3c-3bed-6eda-4aa3-d8e8fab2527f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Sniper_02_Thumb.tex.nasset"
-    },
     "59dcd4c9-11ed-7151-19de-bbd3227e96ef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1705,10 +1312,6 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
-    },
-    "5a291b8d-c11b-768f-73df-9d1224c73908": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Tank_Thumb.tex.nasset"
     },
     "5aac685d-5e65-3fdc-093e-95cb151392a3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1732,17 +1335,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "5d37753f-7f87-d12e-5007-4531ad7542e2": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
     "5f2707b8-e423-77b4-042a-5bd0ffcdd940": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1757,17 +1349,6 @@
     "5f6adedd-4298-d389-a59d-6d490722cc11": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 3.mesh.nasset/Thumbnails/Tree 3.mesh.nasset.tex.nasset"
-    },
-    "5ffc5bcc-186d-19bb-8c2d-d99416b18ac1": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f49d5c78-5f96-299d-f016-4c66b9fe6254"
-        ]
     },
     "60136b22-674e-576d-7d10-e6fbb21387ae": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1794,17 +1375,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca",
             "a490f4ea-4323-883e-278f-02cd81f8c5ed",
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
-        ]
-    },
-    "602bfd4b-56a6-b164-aa20-a81dab4e81ef": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Grey Light.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d6495e72-193e-a169-84cc-65d2c614e8e1"
         ]
     },
     "606b11fc-4652-cf62-7963-687040794386": {
@@ -1840,17 +1410,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "60d7ec95-89f8-3b1b-7342-2018ef348372": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
-        ]
-    },
     "60e2c7da-523a-ccd7-25db-294ef4ae3859": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1884,10 +1443,6 @@
             "850945be-a77d-b669-f6ea-e62f47dd29c1"
         ]
     },
-    "62b24672-7a57-4076-1d5f-b70c00bcd98c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Tree_2_Thumb.tex.nasset"
-    },
     "634a9472-5030-ee75-ba70-cce75614cf14": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1902,17 +1457,6 @@
     "63a46f06-73c7-28be-81b8-93963cf18e4b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Structure 1.mesh.nasset/Thumbnails/Structure 1.mesh.nasset.tex.nasset"
-    },
-    "63f74df1-5ce6-57e1-d4a3-33e68c3eceff": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
     },
     "63ff85ad-3e87-9a2d-9fac-943765c23f30": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1933,13 +1477,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Single White.mesh.nasset/Thumbnails/Stripe Single White.mesh.nasset.tex.nasset"
     },
-    "66509aa2-c5ef-3c81-f7a8-ea7658862e6b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Grey Darker.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "665cb0c3-9ad5-f129-4603-d4932669dea7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Side Vent Ridged.mesh.nasset/Thumbnails/Side Vent Ridged.mesh.nasset.tex.nasset"
@@ -1948,24 +1485,9 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stripe Angle Yellow.mesh.nasset/Thumbnails/Stripe Angle Yellow.mesh.nasset.tex.nasset"
     },
-    "66c67a3a-81cd-1d0d-efb2-109e5cc3dd4b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
-    },
     "670abe87-8610-683b-6edf-a8f97425a16c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Tree 4.mesh.nasset/Thumbnails/Tree 4.mesh.nasset.tex.nasset"
-    },
-    "68d2a75a-9a94-9bdc-b262-45480818b290": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_1_Thumb.tex.nasset"
     },
     "6954d35a-087c-dcb4-b541-0ef85504d620": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1982,46 +1504,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/ExplodingBarrel Spilled.mesh.nasset/Thumbnails/ExplodingBarrel Spilled.mesh.nasset.tex.nasset"
     },
-    "6a5542f9-8d51-919d-4386-49d69b540027": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "5123a090-bb96-99c8-92ec-540831bb7d0f",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "ad036016-ac65-cd8b-f723-9909c81ee625",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "93bf49f8-2858-fd26-fb88-bdc8c6276a92",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "bd3f01bb-7e5c-119f-d96b-14de82278ff4",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
-    },
-    "6a90facb-92f0-7d5c-cbd3-9bca24264a82": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Revolver_Small_Thumb.tex.nasset"
-    },
     "6b25cb9f-c120-4402-4bff-46cc99c0089a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SackTrench Small.mesh.nasset/Thumbnails/SackTrench Small.mesh.nasset.tex.nasset"
     },
-    "6b783f15-fcef-351f-a75e-247db0041214": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
     "6d429c16-40f2-b2c4-0326-50f44b961468": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Concrete Dark.mtli.nasset",
+        "thumbnail": "0d53891d-c8c1-c681-f1bf-3abebe97dd54",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2082,17 +1572,6 @@
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
         ]
     },
-    "7166eeff-639f-4777-b1fa-0bdefa4b2e36": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
     "71e28665-369b-6912-e923-0881cf188d9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2129,17 +1608,6 @@
             "aced3d96-093a-083f-cfc1-38e33b5b0eb2"
         ]
     },
-    "739cc087-2d51-75df-17ce-573a7d9eb72d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
     "73febad0-70eb-ab07-c129-129297c4f6f5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Concrete Flat.005.mesh.nasset/Thumbnails/Concrete Flat.005.mesh.nasset.tex.nasset"
@@ -2169,6 +1637,10 @@
         "dependencies": [
             "a116c2f0-b578-232d-6b31-c82feeefb401"
         ]
+    },
+    "75526812-5b57-6118-37d4-564f8fb462f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Cyan.mtli.nasset.tex.nasset"
     },
     "75bbde08-c558-e782-ff98-5dfdcf47ff29": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2207,24 +1679,9 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
-    "77491bd1-9f51-0866-d9bf-76a3cd1c62ab": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "7ae9986e-3212-8c29-e41a-3322cfed1f2f"
-        ]
-    },
     "783173a7-be42-f68a-c4a0-8f532bcd5eed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/BearTrap Closed.mesh.nasset/Thumbnails/BearTrap Closed.mesh.nasset.tex.nasset"
-    },
-    "78498094-f9a7-a46b-3f60-6b5b73c16ab0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Shotgun_Thumb.tex.nasset"
     },
     "784a3b43-2491-20a1-8fe6-263e96af6935": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2269,6 +1726,10 @@
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
     },
+    "79b3c1e2-12ad-74ca-b0f2-3e533fa89eae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Sack.mtli.nasset.tex.nasset"
+    },
     "79c88516-b710-9936-491b-a3181e9d6137": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2288,24 +1749,9 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "79cc9586-e503-e590-66cd-95390a76c2f7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Container_Long_Open_Thumb.tex.nasset"
-    },
     "7a15af5b-a83e-df8a-79d6-3e829aade113": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Landmine.mesh.nasset/Thumbnails/Landmine.mesh.nasset.tex.nasset"
-    },
-    "7b4a879c-902f-3564-89ab-2671dfab687c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
     },
     "7b780599-f17b-0f55-9b78-2714674a6eaf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2322,6 +1768,10 @@
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
     },
+    "7b90dc63-714f-ee29-94be-d6c2c225fdfb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
+    },
     "7b9a97c8-32b7-ee73-797a-ed62f0f08fc2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Panel.mesh.nasset/Thumbnails/Wall Panel.mesh.nasset.tex.nasset"
@@ -2329,6 +1779,7 @@
     "7c060b26-180a-7cd1-1064-34f22b7c0775": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Wall Green.mtli.nasset",
+        "thumbnail": "aca3603d-2873-6ab8-61db-e90617199911",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2336,13 +1787,10 @@
     "7ca62086-e5a6-599d-314b-267ecfa81aa0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Sack.mtli.nasset",
+        "thumbnail": "79b3c1e2-12ad-74ca-b0f2-3e533fa89eae",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "7d687bfa-0d94-eee0-a435-c65dc600c6a1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_3_Thumb.tex.nasset"
     },
     "7db6a749-93dd-5747-4b70-c8789f08ac11": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2355,13 +1803,17 @@
             "0bd9a970-adc8-5484-d372-2637fe5219c8"
         ]
     },
-    "7de89408-1105-abbd-4f62-4bb0a7340d95": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Barrier_Large_Thumb.tex.nasset"
-    },
     "7ecfcb45-66dc-c9b0-f5c2-b3c93be0026b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/StreetLight.mesh.nasset/Thumbnails/StreetLight.mesh.nasset.tex.nasset"
+    },
+    "7f1c798c-5018-7938-8a37-2affb97995fd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Fence.mtli.nasset.tex.nasset"
+    },
+    "7f26cbf3-f4e0-7cb2-ecd0-2c11df718cd8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
     },
     "7f40112a-51df-32ab-8fc0-1e71e03076ee": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2374,9 +1826,9 @@
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
     },
-    "80678158-eb4a-fc95-4dc3-8ac26b987d2d": {
+    "80351d65-994f-9ebc-6835-39ac14269ddd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Tree_1_Thumb.tex.nasset"
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Oil.mtli.nasset.tex.nasset"
     },
     "80f77812-b6cd-68fb-0bc5-c278340ba7eb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2400,10 +1852,6 @@
             "325caf62-54f5-b567-688b-5158b48fda87",
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
-    },
-    "81168173-794d-d499-981a-8210782c1ef5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Concrete_Flat_Thumb.tex.nasset"
     },
     "8131e47f-4b16-72ec-46af-1430f97e47cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2442,17 +1890,6 @@
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
     },
-    "8364db08-1722-02ce-cf0b-4a7111ffdef7": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Grey Light.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d6495e72-193e-a169-84cc-65d2c614e8e1"
-        ]
-    },
     "83fc12c8-019c-73b7-a955-15a5d26a6a07": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Doorway.mesh.nasset/Thumbnails/Wall Doorway.mesh.nasset.tex.nasset"
@@ -2468,6 +1905,7 @@
     "850945be-a77d-b669-f6ea-e62f47dd29c1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Grey Darker.mtli.nasset",
+        "thumbnail": "eba5ef72-61d4-0a56-e5c0-015f7322540a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2487,21 +1925,6 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
-    "86899b89-d0b0-d09f-f096-b6357472b26b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
-    "86af7e59-0cd9-f726-36f3-4df257ad96dc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Short_Cannon_Thumb.tex.nasset"
-    },
     "86d8caa5-786d-57e2-1bee-7049797b9cf2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2511,35 +1934,6 @@
         ],
         "dependencies": [
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
-        ]
-    },
-    "875e56c6-4564-abca-3df4-6b49b7329784": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "0f4d5a77-ef68-d615-5d98-8862408e0232",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "03032a25-aced-4a0b-9476-6ea60186b264",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
-            "6b783f15-fcef-351f-a75e-247db0041214",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "fc6bfad7-c2e7-c692-deed-3fa4cc2cc55c",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
-    "87cef201-e7f5-b40c-0393-e1fb3ab2f994": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
         ]
     },
     "880ae2d7-ca9c-4fc0-132d-6c5512d7594a": {
@@ -2553,29 +1947,17 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "88542050-8cdb-7f5e-d11c-a8daf4bec939": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "a0d2d226-c6b4-f3d8-d85e-9e7dff882baf",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "a9b97510-9134-dcab-26d2-c436f7a252a8",
-            "fd155555-96ea-4d0d-0049-1c934b388837",
-            "51e7a520-7f5e-c5e0-8f41-dc0bc05b994f",
-            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
-        ]
-    },
-    "89acec32-3706-2a98-b090-751fa2b73549": {
+    "8965d75e-5c40-c9a5-0b91-d312894ed8cf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/SMG_Thumb.tex.nasset"
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Tape.mtli.nasset.tex.nasset"
     },
     "89fb2680-374f-a914-9032-9e8552dddd7c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gate Door Wall LG.mesh.nasset/Thumbnails/Gate Door Wall LG.mesh.nasset.tex.nasset"
+    },
+    "8a17e06e-3945-a3ab-df90-bf4befade58e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Wall Strip.mtli.nasset.tex.nasset"
     },
     "8a1cf244-3b75-9b5a-4d66-c0621a2fd0ce": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2651,43 +2033,13 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "925c872f-b7cf-bf20-ce44-3c956ceea06a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "92b36451-a837-9f4c-6a16-29cab19f7963": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Grey.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+    "9296ede3-354f-a441-5b55-86768265eea0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Asphalt.mtli.nasset.tex.nasset"
     },
     "92e20daa-dc11-37d9-8564-d08e047ae895": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Health.mesh.nasset/Thumbnails/Health.mesh.nasset.tex.nasset"
-    },
-    "93106d43-bdad-00c8-7e38-5cfbdb24cf8e": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Grenade.scene.nasset/SM_Grenade.scene.nasset"
-    },
-    "93bf49f8-2858-fd26-fb88-bdc8c6276a92": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
     },
     "94de6458-f641-1a93-05a3-09c7d9cb1544": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2795,6 +2147,7 @@
     "98cc95ae-c7ce-7394-75ea-b79bdfebdaca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Grey.mtli.nasset",
+        "thumbnail": "7b90dc63-714f-ee29-94be-d6c2c225fdfb",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2831,10 +2184,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Railing Small.mesh.nasset/Thumbnails/Railing Small.mesh.nasset.tex.nasset"
     },
-    "9a7a1165-de9a-6aed-3a05-0445c1f57cd2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Tree_4_Thumb.tex.nasset"
-    },
     "9a970478-b021-6244-e378-598d1a0229f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2844,24 +2193,6 @@
         ],
         "dependencies": [
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
-        ]
-    },
-    "9b2af435-883b-2c2e-1923-ba9cd2877b69": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
-    },
-    "9b665a37-b228-3d79-d708-369145f25466": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Grey Dark.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "9b870ddf-981b-fe1a-0e9f-53ece50040d0": {
@@ -2907,10 +2238,6 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "9dd5b4a4-9c09-da7b-8ae9-ed170358f25b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Fence_Thumb.tex.nasset"
-    },
     "9dee2043-6b9f-90fe-510b-15d4030112fb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2920,39 +2247,6 @@
         ],
         "dependencies": [
             "0bd9a970-adc8-5484-d372-2637fe5219c8"
-        ]
-    },
-    "9f804192-731c-0581-dc7f-7085d8d97440": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "9ffa359b-e5fc-51ce-e835-3c0ebb8a026d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "a0d2d226-c6b4-f3d8-d85e-9e7dff882baf": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "a0e34ce7-a88a-4dd0-e870-af014a91245e": {
@@ -2969,6 +2263,7 @@
     "a116c2f0-b578-232d-6b31-c82feeefb401": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Tank Main.mtli.nasset",
+        "thumbnail": "d9487163-77e6-3456-bf2c-38f49ea12e97",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2993,13 +2288,10 @@
     "a1a71a37-57bd-4fcd-c77c-ef8831c0f21a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Grey Light.mtli.nasset",
+        "thumbnail": "e650f1d1-ce38-dbb3-a094-2aea77199b97",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "a243ff92-c11b-b5fe-8979-4f3ac330aca2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/BearTrap_Open_Thumb.tex.nasset"
     },
     "a27b6b89-1550-6b46-01db-e233580d7a76": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3015,19 +2307,9 @@
     "a2a53b08-e3ad-56e3-fec0-c33671499abf": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Orange.mtli.nasset",
+        "thumbnail": "06c8cf02-ba7c-bc5e-56cc-165028d4661d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "a2f95acb-2c28-2050-f4b0-6a77256452de": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "a3c379a6-204c-c147-2e89-01edb8479981": {
@@ -3097,10 +2379,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Key.mesh.nasset/Thumbnails/Key.mesh.nasset.tex.nasset"
     },
-    "a6194525-8ee8-6075-280e-3cd20c00deb6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Structure_2_Thumb.tex.nasset"
-    },
     "a63d3e2e-1e65-0625-2aaf-644327213a94": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3130,10 +2408,6 @@
             "d9b91be8-041b-3911-c0a4-b09d1062ee8b",
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
-    },
-    "a768fe6b-626d-e51c-3d7d-a74434177dee": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/GasCan_Thumb.tex.nasset"
     },
     "a7cb5b39-2234-6177-9497-158f688cd448": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3191,21 +2465,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "a9b97510-9134-dcab-26d2-c436f7a252a8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "fd155555-96ea-4d0d-0049-1c934b388837"
-        ]
-    },
-    "aa8a3e99-8c36-4c79-1302-a0e84dda4ec5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Fence_Long_Thumb.tex.nasset"
-    },
     "aade4f6a-6255-9a95-06c0-64358ecf63d5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3217,20 +2476,9 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "ab1a116c-da33-3165-fef1-e06f9e0d3d00": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Wood Dark.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "ab757a9a-7b45-9f95-6491-54ee872c84f5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Corner Frame Bldg.mesh.nasset/Thumbnails/Corner Frame Bldg.mesh.nasset.tex.nasset"
-    },
-    "ab85590e-8b71-49c9-5677-81ac01a1a36d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Pallete_Broken_Thumb.tex.nasset"
     },
     "abd8bae0-c8a0-013b-ec2f-403cdeb29231": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3253,45 +2501,17 @@
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
     },
-    "acbb716c-9d96-e500-a804-f4570078580d": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "532b6319-bd0b-a788-c5da-c5213ef86a1f",
-            "fd155555-96ea-4d0d-0049-1c934b388837",
-            "87cef201-e7f5-b40c-0393-e1fb3ab2f994",
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
-            "9f804192-731c-0581-dc7f-7085d8d97440",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "2ce13898-61a3-a0d3-7153-a0ad05051de4",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
+    "aca3603d-2873-6ab8-61db-e90617199911": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Wall Green.mtli.nasset.tex.nasset"
     },
     "aced3d96-093a-083f-cfc1-38e33b5b0eb2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Oil.mtli.nasset",
+        "thumbnail": "80351d65-994f-9ebc-6835-39ac14269ddd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "ad036016-ac65-cd8b-f723-9909c81ee625": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "adb5a10b-7b6c-2324-49af-aae76db16ce3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_BrokenCar_Thumb.tex.nasset"
     },
     "ade69ffc-e221-a0d8-062d-5522dccfdad6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3322,16 +2542,6 @@
             "97db99f1-569c-f6b3-16e3-8a34849903ce",
             "a1a71a37-57bd-4fcd-c77c-ef8831c0f21a"
         ]
-    },
-    "ae3312e2-e841-626f-d3a7-d9f52b849d61": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Pistol.scene.nasset/SM_Pistol.scene.nasset"
-    },
-    "b014865e-a2d8-c8fc-454c-2a3be288d1f5": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Shovel.scene.nasset/SM_Shovel.scene.nasset"
     },
     "b021b5af-a692-d6ec-e23d-5c9806107d92": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3392,24 +2602,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WaterTank Floor.mesh.nasset/Thumbnails/WaterTank Floor.mesh.nasset.tex.nasset"
     },
-    "b25a6978-7e3e-973f-0ce6-26b286841dfe": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "e6843393-bf89-0e83-7a18-4cfaf54a4cc0",
-            "fd155555-96ea-4d0d-0049-1c934b388837",
-            "44654fc0-1670-cd11-ecbd-f2a077b454fb",
-            "b8b09db4-b77d-50a8-1954-aed33e73769f",
-            "39cebbc3-fb94-e5ab-6bac-72f316b6d9a3",
-            "92b36451-a837-9f4c-6a16-29cab19f7963",
-            "2af4381f-20af-c2d6-0e14-15ed129f44f9",
-            "5012e4e7-73dd-8594-7f0a-6307c75a6cae"
-        ]
-    },
     "b26fe0ff-a536-d696-3ebe-ef1e3aacab4b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3425,15 +2617,6 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
-    "b2cdeda6-9272-03b1-82ee-9f42a2148f66": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/SackTrench_Thumb.tex.nasset"
-    },
-    "b331aca0-06c4-b8ab-169d-d30b26cb8b95": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Knife_2.scene.nasset/SM_Knife_2.scene.nasset"
-    },
     "b339b303-f8ff-c674-f51d-b3279f5494ac": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3448,6 +2631,7 @@
     "b49584ec-d977-f5b5-2818-f17f5147f252": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Red.mtli.nasset",
+        "thumbnail": "3292ffdb-8da9-0a2a-f94e-d5cd7cd5dba9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3463,10 +2647,6 @@
             "48203a3e-b958-39d3-ef59-e0b54700acef"
         ]
     },
-    "b5f8cf97-9d04-747c-985d-0427e6bf01f7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_4_Thumb.tex.nasset"
-    },
     "b620cad3-7abb-2217-f5cb-0bb88e571d8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3476,36 +2656,6 @@
         ],
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
-        ]
-    },
-    "b62a7c0d-3234-34e6-a047-6de779ac027a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Pallete_Thumb.tex.nasset"
-    },
-    "b6a8d142-afb9-d909-9471-883e7190ea7e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
-    "b70380df-90fe-3527-9411-5d58af4fe9fc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Health_Thumb.tex.nasset"
-    },
-    "b7201341-f4b0-521c-236c-898e04210fa7": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
         ]
     },
     "b7282cc0-3c79-2692-647d-1a5246211ee1": {
@@ -3534,13 +2684,6 @@
         ],
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
-        ]
-    },
-    "b8b09db4-b77d-50a8-1954-aed33e73769f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Black.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "b8df49c7-dd16-a627-f587-88eba02ffccc": {
@@ -3584,22 +2727,6 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "bba84769-ccf3-97bc-e1f3-3b79f8119067": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "c558adc3-27b4-da92-a844-e8c2f300d27a",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "c9c8dd95-e914-9b61-591a-4dab82303fbc",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "e1ddb713-d57a-4a41-b4b7-e388a4c62df7",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
     "bc481aa8-85cd-c178-c27b-fda565f691a2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3622,21 +2749,6 @@
             "1e693d8c-8c29-a90d-c426-9dbdee53d37c"
         ]
     },
-    "bd3f01bb-7e5c-119f-d96b-14de82278ff4": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
-    },
-    "bd666952-be8f-6f0d-6795-9d4c05f3cf7a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Grenade_Launcher_Thumb.tex.nasset"
-    },
     "bd8517cb-88ae-4cd3-ddd1-eec5957e7d90": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3648,59 +2760,29 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
-    "be0afe87-179a-4df8-ec78-b7540ca04c8b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Debris_Papers_1_Thumb.tex.nasset"
-    },
-    "be11d861-62a9-3ba7-0b5b-9f8c09be2420": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
-    "be4cd0d3-d87b-6b69-7785-2766572f6e66": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Sniper.scene.nasset/SM_Sniper.scene.nasset"
-    },
     "bf2244f5-a3a3-49c7-8e47-4081b5c55159": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Brown.mtli.nasset",
+        "thumbnail": "372809e5-fee5-477f-ff60-902aaca64452",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "c018b54d-9df8-82bb-14ac-814c1554157d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/WaterTank_Floor_Thumb.tex.nasset"
-    },
-    "c05eab90-ce5c-babc-7bb6-773986697afc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Sniper_01_Thumb.tex.nasset"
-    },
-    "c1868917-768a-4e11-874b-d1f422594df9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/WoodPlanks_Thumb.tex.nasset"
     },
     "c18d0b6f-42a3-fb47-c6b3-16aa9eb429f4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/Textures/T_Fence_D.tex.nasset"
     },
-    "c1b2fb31-72ea-bc90-db27-1495f2d98258": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Crate_Thumb.tex.nasset"
-    },
     "c22aab5e-6974-a90d-3b2a-bb1d93ffc2e5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Red Dark.mtli.nasset",
+        "thumbnail": "f0f74c66-eb5f-b36a-74e9-ed26027de0a1",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "c28adf29-68bb-09d6-0e96-bae36fb64f34": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Heist Atlas.mtli.nasset.tex.nasset"
     },
     "c310a197-f431-6dce-6ac1-145ce1ad06af": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3709,18 +2791,11 @@
     "c3259b99-f74b-5906-e038-c94e57a3ecd3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Fence.mtli.nasset",
+        "thumbnail": "7f1c798c-5018-7938-8a37-2affb97995fd",
         "dependencies": [
             "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
             "c18d0b6f-42a3-fb47-c6b3-16aa9eb429f4"
         ]
-    },
-    "c32f1197-b7d6-ae11-06f1-90f5a79c72a5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/SackTrench_Small_Thumb.tex.nasset"
-    },
-    "c35359b2-d3a4-eca1-074f-7146c929ebce": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Wall_Panel_Thumb.tex.nasset"
     },
     "c42cdc90-0d50-1824-9384-8805728b0147": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3732,10 +2807,6 @@
         "dependencies": [
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
         ]
-    },
-    "c46181e0-b190-1b44-960b-dd359034a2cc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/GasTank_Thumb.tex.nasset"
     },
     "c4a99929-c044-5f65-d66b-f471ede84467": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3753,6 +2824,7 @@
     "c4c746b5-bbd6-a780-cec8-30d687cd0543": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Wall Strip.mtli.nasset",
+        "thumbnail": "8a17e06e-3945-a3ab-df90-bf4befade58e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3772,16 +2844,9 @@
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
         ]
     },
-    "c558adc3-27b4-da92-a844-e8c2f300d27a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
+    "c56e8c13-e2e0-9e14-8f5e-55a612588ffd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "c62c8577-9a64-ac23-c03c-3e4a1b5f0298": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3844,28 +2909,6 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
-    "c9a564e6-83c2-a090-77bd-8fa65a9f340a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
-    "c9c8dd95-e914-9b61-591a-4dab82303fbc": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
-        ]
-    },
     "c9eb79a3-6852-442e-eca7-71e62b59a675": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3890,18 +2933,9 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "ca380ea0-b089-254d-0512-b6898fc93ca7": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Trash_Container_Thumb.tex.nasset"
-    },
     "caea3c27-70c3-d75e-23d6-23dd64d2f718": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Sign No Parking.mesh.nasset/Thumbnails/Sign No Parking.mesh.nasset.tex.nasset"
-    },
-    "cb30bb42-a163-0dac-3986-ccbc22668f84": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/SM_Shotgun.scene.nasset"
     },
     "cb3ded86-ab73-486c-36d9-47bcd62ee9b5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3971,17 +3005,6 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
-    "ce8279d8-a293-5a23-6c94-efb40ec0aa88": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Rocket_Launcher_Thumb.tex.nasset"
-    },
-    "cf6ee35f-395a-6a5a-2419-1db5a584ba56": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Green Dark.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "cfa13cb9-bbe7-0f7b-5a83-653bb000761d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4030,10 +3053,6 @@
             "123e1311-5459-9629-57f5-aba261d7d0e9"
         ]
     },
-    "d1678206-8361-d874-13fa-98f32a8011af": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Grenade_Thumb.tex.nasset"
-    },
     "d19fe050-3ae5-c4d3-1de9-e131fc99eecb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4044,10 +3063,6 @@
         "dependencies": [
             "850945be-a77d-b669-f6ea-e62f47dd29c1"
         ]
-    },
-    "d1ba6677-d540-095e-8fbc-ee6fffcbe367": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Shovel_Thumb.tex.nasset"
     },
     "d1d771fc-dc94-514a-6be5-38310e694fc0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4164,6 +3179,7 @@
     "d5cea7c2-3db1-c2db-d177-17a5d5f9f853": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Cyan.mtli.nasset",
+        "thumbnail": "75526812-5b57-6118-37d4-564f8fb462f8",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -4171,17 +3187,7 @@
     "d6251e94-da92-b149-20bc-e1b85f9647a1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Green.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "d629e197-466a-0ce5-30c1-1074cc90fa89": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/MetalFence_Thumb.tex.nasset"
-    },
-    "d6495e72-193e-a169-84cc-65d2c614e8e1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Grey Light.mtli.nasset",
+        "thumbnail": "edad9a76-3ae5-20cc-dc15-4f50050cd033",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -4190,21 +3196,17 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin"
     },
-    "d6e7cb94-1de0-a8bc-a6ae-d94ea7549daa": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Stage_Platform_Thumb.tex.nasset"
-    },
     "d7aba666-5c39-3210-4ac4-d28131a3d078": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/CardboardBoxes 3.mesh.nasset/Thumbnails/CardboardBoxes 3.mesh.nasset.tex.nasset"
     },
-    "d7ae5d73-1331-98d6-fc35-c2cdca83c59a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Landmine_Thumb.tex.nasset"
-    },
     "d7ed3b7d-20e6-077a-924b-460ca86f3d0d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Fence.mesh.nasset/Thumbnails/Fence.mesh.nasset.tex.nasset"
+    },
+    "d9487163-77e6-3456-bf2c-38f49ea12e97": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Tank Main.mtli.nasset.tex.nasset"
     },
     "d9a96780-c4e1-f910-05d6-1ae79d7e91b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4227,10 +3229,6 @@
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
-    },
-    "d9cf545b-4812-cf05-6a96-eb22f1b7bbf8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/AK_Thumb.tex.nasset"
     },
     "d9ddfbcf-a4bc-d5ce-ee53-e4e201f6ad5c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4258,20 +3256,10 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "da044b1d-9402-ce8f-b491-92be714fae01": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Green Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "cf6ee35f-395a-6a5a-2419-1db5a584ba56"
-        ]
-    },
     "da3000c2-f537-574a-dcf9-8a394830f023": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Asphalt.mtli.nasset",
+        "thumbnail": "9296ede3-354f-a441-5b55-86768265eea0",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -4402,17 +3390,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "e1ddb713-d57a-4a41-b4b7-e388a4c62df7": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
     "e2cc8db7-faa2-221c-3639-b128c60603b4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4437,28 +3414,6 @@
             "eef8ae58-7242-e233-9b5f-46b2ed47b33d"
         ]
     },
-    "e36df82b-c44e-3e5c-ff24-4c5415060d95": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "63f74df1-5ce6-57e1-d4a3-33e68c3eceff",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "f2c57b40-ba33-aca6-79be-7855c34437d0",
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
-            "9ffa359b-e5fc-51ce-e835-3c0ebb8a026d",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "c9a564e6-83c2-a090-77bd-8fa65a9f340a",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
-    "e39ee889-d087-e805-a431-501148039d7a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Trash_Container_Open_Thumb.tex.nasset"
-    },
     "e427cfa8-3500-163b-7ff1-c745ceaf3209": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4473,10 +3428,6 @@
             "b0bf1f21-bf2f-d814-3b64-f1162ebe41a4",
             "123e1311-5459-9629-57f5-aba261d7d0e9"
         ]
-    },
-    "e466fe18-4d59-302d-dafe-e44c8faaf24c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Structure_1_Thumb.tex.nasset"
     },
     "e4bd939a-a386-88a7-340b-2f2b61a1f6e4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4499,16 +3450,9 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
-    "e6843393-bf89-0e83-7a18-4cfaf54a4cc0": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "fd155555-96ea-4d0d-0049-1c934b388837"
-        ]
+    "e650f1d1-ce38-dbb3-a094-2aea77199b97": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Grey Light.mtli.nasset.tex.nasset"
     },
     "e69ef5c4-23e8-6888-bfa3-69e41695daa3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4525,17 +3469,6 @@
             "d6251e94-da92-b149-20bc-e1b85f9647a1",
             "5115e432-a6b7-9424-1713-1a19567a1938",
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
-        ]
-    },
-    "e76fdb05-9ef2-e2b3-d059-99feed48d943": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey Dark.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "9b665a37-b228-3d79-d708-369145f25466"
         ]
     },
     "e7831f60-7eba-c402-571a-fba25df23f9e": {
@@ -4571,24 +3504,13 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "e9dcc1a2-9606-7436-b61f-f6d0881dc25a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Barrier_Trash_Thumb.tex.nasset"
-    },
-    "e9fe10ce-66f7-988c-ac63-a7add8ef7143": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Guns/Thumbnails/Knife_01_Thumb.tex.nasset"
-    },
     "ea335b9f-9466-6bf1-83a3-9b20a62a10a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Blue.mtli.nasset",
+        "thumbnail": "ff143724-7d52-7733-7567-3182ba883384",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "ea6d7ee8-1a81-0698-11e3-974f709cf3ab": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/Barrier_Single_Thumb.tex.nasset"
     },
     "eaa8b69c-671d-fbd3-c16a-ab47fdc9ef9a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4623,6 +3545,10 @@
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
         ]
     },
+    "eb335f32-2c84-a210-fc56-2b8ee4495ebc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Yellow.mtli.nasset.tex.nasset"
+    },
     "eb6aa280-5937-424a-6e0c-513db13bb5c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4633,6 +3559,14 @@
         "dependencies": [
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
+    },
+    "eba5ef72-61d4-0a56-e5c0-015f7322540a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Grey Darker.mtli.nasset.tex.nasset"
+    },
+    "ebf2d001-6be2-e6a9-9c8e-d8721b7f2f6c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
     },
     "ecb1bfde-ee68-f712-f111-861d15fb7830": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4671,27 +3605,16 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
-    "edd4f39a-b536-78e1-d98d-bc14d71a3231": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_AK.scene.nasset/SM_AK.scene.nasset"
+    "edad9a76-3ae5-20cc-dc15-4f50050cd033": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Green.mtli.nasset.tex.nasset"
     },
     "ee22046d-d3fb-7e38-7fe2-ed00b36acef4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/White.mtli.nasset",
+        "thumbnail": "c56e8c13-e2e0-9e14-8f5e-55a612588ffd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "eef6f5e5-c0a3-7810-cf84-e8e29cebeff3": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "eef72514-4ddc-7345-a6e7-8bf3930e520b": {
@@ -4708,6 +3631,7 @@
     "eef8ae58-7242-e233-9b5f-46b2ed47b33d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Heist Atlas.mtli.nasset",
+        "thumbnail": "c28adf29-68bb-09d6-0e96-bae36fb64f34",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "50e61b10-ef1e-51ea-e3fd-17fb07ffaabc"
@@ -4763,9 +3687,13 @@
             "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e"
         ]
     },
-    "f15115a2-f067-bf3f-77da-fb5d4e86dd8f": {
+    "efd56dfb-60d6-fb4c-90b8-d7d8590f1cf4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/BearTrap_Closed_Thumb.tex.nasset"
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Light Emission.mtli.nasset.tex.nasset"
+    },
+    "f0f74c66-eb5f-b36a-74e9-ed26027de0a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Red Dark.mtli.nasset.tex.nasset"
     },
     "f191ae1a-90b0-1e9d-f9a5-c585cb8dac2c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4780,20 +3708,13 @@
             "eef8ae58-7242-e233-9b5f-46b2ed47b33d"
         ]
     },
-    "f1ba40d4-de28-49cc-f7f7-9d0fa62c9f5d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
-        ]
-    },
     "f1c73ead-0d84-a41e-aa34-6db60e6c1b4b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Stage Platform.mesh.nasset/Thumbnails/Stage Platform.mesh.nasset.tex.nasset"
+    },
+    "f1d8efd0-582b-ce3b-39ff-9a4d6e438aca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Grey. Blue.mtli.nasset.tex.nasset"
     },
     "f2b4e2c6-23c9-86ce-5916-96bde17b2534": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4810,22 +3731,6 @@
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159"
         ]
     },
-    "f2c57b40-ba33-aca6-79be-7855c34437d0": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey Darker.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
-        ]
-    },
-    "f320ebca-90a4-5054-c6e1-e891da0592a2": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Revolver_Small.scene.nasset/SM_Revolver_Small.scene.nasset"
-    },
     "f3eabee7-03f2-274e-e55e-9e41d1336dfe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4839,26 +3744,6 @@
             "0bd9a970-adc8-5484-d372-2637fe5219c8",
             "7691daa4-46ea-4338-5cc3-88898f56f4c0",
             "48203a3e-b958-39d3-ef59-e0b54700acef"
-        ]
-    },
-    "f4901e31-4877-eaa9-53c8-9d1014b7afc2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/ExplodingBarrel_Thumb.tex.nasset"
-    },
-    "f4c300b8-f53d-7851-8c28-ab9ec3f1a593": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "1add22aa-97b1-dd3c-17a3-299d18fe9743",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
-            "7b4a879c-902f-3564-89ab-2671dfab687c",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "86899b89-d0b0-d09f-f096-b6357472b26b",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "f5a01ff5-ce36-df70-c3a9-f95b96f026a4": {
@@ -4917,17 +3802,6 @@
             "7c060b26-180a-7cd1-1064-34f22b7c0775"
         ]
     },
-    "f88a83ea-b21f-bec7-5b68-c0aec400004c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
     "f8ae8188-8620-bdb1-fc41-9bd5a2f24901": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/WoodPlanks.mesh.nasset/Thumbnails/WoodPlanks.mesh.nasset.tex.nasset"
@@ -4943,10 +3817,6 @@
             "2526a360-cc58-931c-0d6d-41f08c02581b"
         ]
     },
-    "f9746230-ebc8-a7f4-9331-9309bd6a534b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Enviro/Thumbnails/CardboardBoxes_2_Thumb.tex.nasset"
-    },
     "fae2de29-cb21-6fc4-d394-3002abb80219": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4961,6 +3831,7 @@
     "fb1becef-fa9e-bfb9-bf44-ad6e29a0c99e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Enviro/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "7f26cbf3-f4e0-7cb2-ecd0-2c11df718cd8",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -4991,33 +3862,6 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/SC_Heist_Enviro.scene.nasset"
     },
-    "fc0bea8c-aa13-5f21-9b6c-2f8a898bf152": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "5d37753f-7f87-d12e-5007-4531ad7542e2",
-            "9b665a37-b228-3d79-d708-369145f25466",
-            "eef6f5e5-c0a3-7810-cf84-e8e29cebeff3",
-            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
-            "f88a83ea-b21f-bec7-5b68-c0aec400004c",
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
-    "fc6bfad7-c2e7-c692-deed-3fa4cc2cc55c": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Wood.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
-        ]
-    },
     "fcdcf5b5-4864-183d-97ce-3fc5f94f7421": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5029,13 +3873,6 @@
         "dependencies": [
             "eb288852-6fa3-cdf7-5729-230a24072ea3",
             "c4c746b5-bbd6-a780-cec8-30d687cd0543"
-        ]
-    },
-    "fd155555-96ea-4d0d-0049-1c934b388837": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Guns/Material Instances/Red.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "fda52a69-db50-af5e-003d-6ffd5e9ba8e2": {
@@ -5060,37 +3897,9 @@
             "b49584ec-d977-f5b5-2818-f17f5147f252"
         ]
     },
-    "fdec8a96-1ace-4f5d-afd6-d7f19bfa1f57": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "5ffc5bcc-186d-19bb-8c2d-d99416b18ac1",
-            "f49d5c78-5f96-299d-f016-4c66b9fe6254",
-            "77491bd1-9f51-0866-d9bf-76a3cd1c62ab",
-            "7ae9986e-3212-8c29-e41a-3322cfed1f2f",
-            "b7201341-f4b0-521c-236c-898e04210fa7",
-            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
-        ]
-    },
-    "fe02aef4-85cc-e140-9819-649263f17842": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Guns/SM_SMG.scene.nasset/SM_SMG.scene.nasset"
-    },
-    "fee850ec-b299-2cef-2bb4-2d6032351859": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Green.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "2b776c51-0aa3-c403-04fc-c76642e087d8"
-        ]
+    "ff143724-7d52-7733-7567-3182ba883384": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Material Instances/Thumbnails/Blue.mtli.nasset.tex.nasset"
     },
     "ffdf01dd-8f8f-30d8-b324-2ad53df2109a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
