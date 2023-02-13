@@ -14,47 +14,47 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 262144
+                "size": 32768
             },
             {
                 "level": 1,
-                "offset": 262144,
-                "size": 65536
+                "offset": 32768,
+                "size": 8192
             },
             {
                 "level": 2,
-                "offset": 327680,
-                "size": 16384
+                "offset": 40960,
+                "size": 2048
             },
             {
                 "level": 3,
-                "offset": 344064,
-                "size": 4096
+                "offset": 43008,
+                "size": 512
             },
             {
                 "level": 4,
-                "offset": 348160,
-                "size": 1024
+                "offset": 43520,
+                "size": 128
             },
             {
                 "level": 5,
-                "offset": 349184,
-                "size": 256
+                "offset": 43648,
+                "size": 32
             },
             {
                 "level": 6,
-                "offset": 349440,
-                "size": 64
+                "offset": 43680,
+                "size": 8
             },
             {
                 "level": 7,
-                "offset": 349504,
-                "size": 16
+                "offset": 43688,
+                "size": 8
             },
             {
                 "level": 8,
-                "offset": 349520,
-                "size": 4
+                "offset": 43696,
+                "size": 8
             }
         ]
     },
