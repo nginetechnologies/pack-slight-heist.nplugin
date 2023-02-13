@@ -3194,7 +3194,8 @@
     },
     "d6e4664d-e0e6-4183-8b01-95e53872bf0e": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Slight Heist Assets"
     },
     "d7aba666-5c39-3210-4ac4-d28131a3d078": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
