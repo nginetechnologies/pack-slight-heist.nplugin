@@ -1354,12 +1354,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Crate.mesh.nasset/Thumbnails/Crate.mesh.nasset.tex.nasset"
     },
-    "60200fef-5d55-47d4-9ca9-2afe17acabf1": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Heist Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
-    },
     "602442c0-9be7-e0c7-f346-70633d2f45ed": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2575,6 +2569,10 @@
         "dependencies": [
             "123e1311-5459-9629-57f5-aba261d7d0e9"
         ]
+    },
+    "b0c903a8-33a5-4626-afdd-8338e481c2a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Enviro/Textures/T_Icon_D.tex.nasset"
     },
     "b1591f37-7454-e05a-3bb5-c727214f1c70": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
