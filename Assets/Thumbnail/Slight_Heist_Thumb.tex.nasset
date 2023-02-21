@@ -3,8 +3,7 @@
     "source": "Slight_Heist_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        400.0,
-        400.0
+        400
     ],
     "preset": 3,
     "usage_flags": 6,
