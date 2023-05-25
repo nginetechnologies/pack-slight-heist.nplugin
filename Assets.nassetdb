@@ -1543,10 +1543,6 @@
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
         ]
     },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
     "6f4e02a5-efd6-f664-6b67-14357c69c321": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Gas Tank.mesh.nasset/Thumbnails/Gas Tank.mesh.nasset.tex.nasset"
