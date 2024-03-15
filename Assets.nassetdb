@@ -2202,6 +2202,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01.mesh.nasset/Thumbnails/Support Pillar 01.mesh.nasset.tex.nasset"
     },
+    "9cb10158-a3ab-6aa3-29df-55a4157660a0": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/S_Footstep_Concrete_1.audio.nasset"
+    },
     "9cc456f0-1c75-06a2-c950-9fa025b22a44": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
