@@ -1088,6 +1088,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Trash Container Open.mesh.nasset/Thumbnails/Trash Container Open.mesh.nasset.tex.nasset"
     },
+    "4af95f5c-d5e6-56e1-bb79-5022e96825b9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Bullet_Impact_Brown_D.tex.nasset"
+    },
     "4aff038b-1f5b-1d23-13a2-1e1aa00b89ef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1880,6 +1884,10 @@
             "4b82a362-e60b-b997-b228-9b6ca1fddede"
         ]
     },
+    "83c7d8bb-b52a-8f6e-da47-25624d1efaa3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Bullet_Impact_Blue_D.tex.nasset"
+    },
     "83fc12c8-019c-73b7-a955-15a5d26a6a07": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Wall Doorway.mesh.nasset/Thumbnails/Wall Doorway.mesh.nasset.tex.nasset"
@@ -1935,6 +1943,15 @@
         ],
         "dependencies": [
             "98cc95ae-c7ce-7394-75ea-b79bdfebdaca"
+        ]
+    },
+    "8866d4ec-ac6f-4076-b28a-eba8e6f7255f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Concrete.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "da7b45e7-4024-0920-6be8-937bffaf5632"
         ]
     },
     "8965d75e-5c40-c9a5-0b91-d312894ed8cf": {
@@ -1999,6 +2016,15 @@
             "bf2244f5-a3a3-49c7-8e47-4081b5c55159",
             "d1f3a735-967c-170c-5794-c0561783fc3b",
             "123e1311-5459-9629-57f5-aba261d7d0e9"
+        ]
+    },
+    "900b6bb6-23d2-4212-a83b-c420bba46508": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Dirt.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "4af95f5c-d5e6-56e1-bb79-5022e96825b9"
         ]
     },
     "90647a19-f6cb-b50f-d4e4-d78d38129c6b": {
@@ -2108,6 +2134,15 @@
             "0bd9a970-adc8-5484-d372-2637fe5219c8"
         ]
     },
+    "976dcbeb-5385-4ee5-9b16-381fef3bd21e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Metal.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "83c7d8bb-b52a-8f6e-da47-25624d1efaa3"
+        ]
+    },
     "976e6ac0-3927-7b6d-aa91-94e2382a651d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2201,11 +2236,6 @@
     "9bc03541-ea88-f019-e93f-2cb9e0e9563d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Enviro/SC_Heist_Enviro.scene.nasset/Support Pillar 01.mesh.nasset/Thumbnails/Support Pillar 01.mesh.nasset.tex.nasset"
-    },
-    "9cb10158-a3ab-6aa3-29df-55a4157660a0": {
-        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
-        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Audio/S_Footstep_Concrete_1.audio.nasset"
     },
     "9cc456f0-1c75-06a2-c950-9fa025b22a44": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2469,6 +2499,15 @@
         ],
         "dependencies": [
             "ee22046d-d3fb-7e38-7fe2-ed00b36acef4"
+        ]
+    },
+    "aaffad6d-aaad-4812-9f71-4d2b80ab25da": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Wood.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "dc14af21-c13a-4ff1-08d2-e1c0d91663e8"
         ]
     },
     "ab757a9a-7b45-9f95-6491-54ee872c84f5": {
@@ -3264,6 +3303,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "da7b45e7-4024-0920-6be8-937bffaf5632": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Bullet_Impact_Grey_D.tex.nasset"
+    },
     "db388e26-b081-e0c5-7247-f9678b54bade": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3302,6 +3345,10 @@
         "dependencies": [
             "c22aab5e-6974-a90d-3b2a-bb1d93ffc2e5"
         ]
+    },
+    "dc14af21-c13a-4ff1-08d2-e1c0d91663e8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Bullet_Impact_Yellow_D.tex.nasset"
     },
     "dd7db9cc-9a50-0127-810d-2f1b84e01f63": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
